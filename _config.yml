@@ -1,0 +1,7 @@
+pygments: true
+permalink: /:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Sam Fader"
+description: "sam fader's web presence 2.0"
+url: http://localhost:4000
