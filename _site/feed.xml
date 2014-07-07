@@ -8,7 +8,7 @@
     
       
         <item>
-          <title>Do not read this</title>
+          <title>white sands national monument</title>
           <pubDate>Mon, 07 Jul 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
@@ -18,11 +18,21 @@
     
       
         <item>
+          <title>Do not read this</title>
+          <pubDate>Mon, 07 Jul 2014 00:00:00 -0700</pubDate>
+          <link></link>
+          <guid isPermaLink="true"></guid>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px groove yellow;</category>
+        </item>
+      
+    
+      
+        <item>
           <title>canyon loop trail</title>
           <pubDate>Sun, 29 Jun 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
-          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px groove yellow;</category>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px dotted red;</category>
         </item>
       
     
@@ -32,7 +42,7 @@
           <pubDate>Tue, 13 May 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
-          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px dotted red;</category>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px outset aqua;</category>
         </item>
       
     
@@ -42,7 +52,7 @@
           <pubDate>Mon, 12 May 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
-          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px outset aqua;</category>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; box-shadow: 0 0 0 1px white, 0 0 0 2px magenta; padding: 20px 30px; border: 1px solid red;</category>
         </item>
       
     
@@ -52,7 +62,7 @@
           <pubDate>Sun, 11 May 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
-          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; box-shadow: 0 0 0 1px white, 0 0 0 2px magenta; padding: 20px 30px; border: 1px solid red;</category>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px groove yellow;</category>
         </item>
       
     
@@ -62,7 +72,7 @@
           <pubDate>Sat, 10 May 2014 00:00:00 -0700</pubDate>
           <link></link>
           <guid isPermaLink="true"></guid>
-          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px groove yellow;</category>
+          <category>color: inherit; display: block; margin-bottom: 10px; text-align: left; font-size: 18px; padding: 20px 30px; border: 2px dotted red;</category>
         </item>
       
     
